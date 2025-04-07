@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_job_opening",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_job_opening",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

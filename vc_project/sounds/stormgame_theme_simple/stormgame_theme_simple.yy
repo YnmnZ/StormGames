@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"stormgame_theme_simple",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":34.0,
+  "name":"stormgame_theme_simple",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"stormgame_theme_simple.wav",
+  "type":0,
+  "volume":1.0,
+}

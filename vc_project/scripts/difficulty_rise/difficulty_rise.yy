@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"difficulty_rise",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"difficulty_rise",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

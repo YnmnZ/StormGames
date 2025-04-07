@@ -1,0 +1,1 @@
+draw_sprite(load_tutorial[image_tracker],0,0,0)
